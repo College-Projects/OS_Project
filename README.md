@@ -1,7 +1,7 @@
 # OS_Project
 <h3>CPU Scheduler</h3>
 Simple CPU scheduler that implements RR, SJF, FTCF, MLFQ, and FCFS on proccesses using C programming language. Also the project works like a virtual monitor that shows the state of the proccess when running or issuing input/output. 
-___________________________________________________________________________________________________________________________________________________________
+_______________________________________________________________________________________________
 <h4>Team members:</h4>
 
 11-Alaa Ahmed Ibraheem
